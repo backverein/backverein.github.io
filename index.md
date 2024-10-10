@@ -1,5 +1,5 @@
 ---
-title: "Backverein Mötzingen e.V."
+title: "Backverein Mötzingen"
 permalink: /
 layout: default
 ---
