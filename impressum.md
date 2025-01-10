@@ -1,9 +1,9 @@
 
 # Impressum
 
-Backverein Mötzingen e.V.
-Vereinsregister Amtsgericht Stuttgart, Registernummer VR726937
-Sitz: Baisinger Str. 6, 71159 Mötzingen
+Backverein Mötzingen e.V.  
+Vereinsregister Amtsgericht Stuttgart, Registernummer VR726937  
+Sitz: Baisinger Str. 6, 71159 Mötzingen  
 E-Mail: backhaus.moetzingen@web.de  
 
 Vorstand:  
