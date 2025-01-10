@@ -1,33 +1,47 @@
 
 # Impressum
 
+Backverein Mötzingen e.V.
+Vereinsregister Amtsgericht Stuttgart, Registernummer VR726937
+Sitz: Baisinger Str. 6, 71159 Mötzingen
+E-Mail: backhaus.moetzingen@web.de  
+
 Vorstand:  
 Dr.-Ing Maximilian Harr  
+Baisinger Str. 22, 71159 Mötzingen  
 backhaus.moetzingen@web.de  
   
-Adresse:  
-Baisinger Str. 6  
-71159 Mötzingen​  
-  
-Ansprechpartner für Webseite:  
+Ansprechpartner für Webseite und redaktionelle Inhalte:  
+Dr.-Ing Maximilian Harr  
 backhaus.moetzingen@web.de  
-  
-DISCLAIMER  
-  
-1. Haftungsbeschränkung  
-Die Inhalte dieser Website werden mit größtmöglicher Sorgfalt erstellt. Der Anbieter übernimmt jedoch keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte. Die Nutzung der Inhalte der Website erfolgt auf eigene Gefahr des Nutzers. Mit der reinen Nutzung der Website des Anbieters kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande.  
-Eine Verpflichtung zur Überwachung übermittelter oder gespeicherter fremder Informationen besteht jedoch nicht (§§ 8-10 TDG). Sobald uns Rechtsverstöße bekannt werden, werden wir die entsprechenden Inhalte umgehend entfernen. Eine dahingehende Haftung wird jedoch erst ab dem Zeitpunkt der Kenntnis konkreter Rechtsverletzungen übernommen.  
-  
-2. Externe Links  
-Diese Website enthält Verknüpfungen zu Websites Dritter ("externe Links"). Diese Websites unterliegen der Haftung der jeweiligen Betreiber. Der Anbieter hat bei der erstmaligen Verknüpfung der externen Links die fremden Inhalte daraufhin überprüft, ob etwaige Rechtsverstöße bestehen. Zu dem Zeitpunkt waren keine Rechtsverstöße ersichtlich. Der Anbieter hat keinerlei Einfluss auf die aktuelle und zukünftige Gestaltung und auf die Inhalte der verknüpften Seiten. Das Setzen von externen Links bedeutet nicht, dass sich der Anbieter die hinter dem Verweis oder Link liegenden Inhalte zu Eigen macht. Eine ständige Kontrolle der externen Links ist für den Anbieter ohne konkrete Hinweise auf Rechtsverstöße nicht zumutbar. Bei Kenntnis von Rechtsverstößen werden jedoch derartige externe Links unverzüglich gelöscht.  
-  
-3. Urheber- und Leistungsschutzrechte  
-Die auf dieser Website veröffentlichten Inhalte unterliegen dem deutschen Urheber- und Leistungsschutzrecht. Jede vom deutschen Urheber- und Leistungsschutzrecht nicht zugelassene Verwertung bedarf der vorherigen schriftlichen Zustimmung des Anbieters oder jeweiligen Rechteinhabers. Dies gilt insbesondere für Vervielfältigung, Bearbeitung, Übersetzung, Einspeicherung, Verarbeitung bzw. Wiedergabe von Inhalten in Datenbanken oder anderen elektronischen Medien und Systemen. Inhalte und Rechte Dritter sind dabei als solche gekennzeichnet. Die unerlaubte Vervielfältigung oder Weitergabe einzelner Inhalte oder kompletter Seiten ist nicht gestattet und strafbar. Lediglich die Herstellung von Kopien und Downloads für den persönlichen, privaten und nicht kommerziellen Gebrauch ist erlaubt.  
-Die Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlaubnis zulässig.  
-  
-4. Rechtswirksamkeit dieses Haftungsausschlusses  
-Sollten einzelne Regelungen oder Formulierungen dieses Haftungsausschlusses unwirksam sein oder werden, bleiben die übrigen Regelungen in ihrem Inhalt und ihrer Gültigkeit hiervon unberührt.  
 
-Quellen: Juraforum.de - Disclaimer, Gesetze, Urteile, Lexikon, Rechtsanwälte & Steuerberater; anwalt-seiten.de  
+## Bildnachweis  
   
-[Startseite](index.md)  
+Die Bilder auf www.backverein.github.io wurden von Privatpersonen zur Verfügung gestellt.  
+
+## Haftungshinweis  
+  
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.  
+Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.  
+Desweiteren kann die Web-Seite ohne unser Wissen von anderen Seiten mittels sog. Links angelinkt werden. Der Betreiber übernimmt keine Verantwortung für Darstellungen, Inhalt oder irgendeine Verbindung zu dieser Web-Seite in Web-Seiten Dritter. Für fremde Inhalte ist der Betreiber nur dann verantwortlich, wenn von ihnen (d.h. auch von einem rechtswidrigen oder strafbaren Inhalt) positive Kenntnis vorliegt und es technisch möglich und zumutbar ist, deren Nutzung zu verhindern.  
+Der Betreiber ist nach dem Teledienstegesetz jedoch nicht verpflichtet,die fremden Inhalte ständig zu überprüfen.  
+  
+## Urheberrecht  
+  
+Alle Informationen dieser Web-Seite werden wie angegeben ohne Anspruch auf Richtigkeit, Vollständigkeit
+oder Aktualität zur Verfügung gestellt.  
+Wenn nicht ausdrücklich anderweitig in dieser Publikation zu verstehen gegeben, und zwar in Zusammenhang mit einem bestimmten Ausschnitt, einer Datei, oder einem Dokument, ist jedermann dazu berechtigt, dieses Dokument anzusehen, zu kopieren, zu drucken und zu verteilen, unter den folgenden Bedingungen:  
+Das Dokument darf nur für nichtkommerzielle Informationszwecke genutzt werden. Jede Kopie dieses Dokuments oder eines Teils davon muss diese urheberrechtliche Erklärung und das urheberrechtliche Schutzzeichen des Betreibers enthalten. Das Dokument, jede Kopie des Dokuments oder eines Teils davon dürfen nicht ohne schriftliche Zustimmung des Betreibers verändert werden. Der Betreiber behält sich das Recht vor, diese Genehmigung jederzeit zu widerrufen, und jede Nutzung muss sofort eingestellt werden, sobald eine schriftliche Bekanntmachung seitens des Betreibers veröffentlicht wird.  
+  
+## Verzichterklärung  
+  
+Die Betreiber übernehmen keinerlei Gewähr für Richtigkeit der enthaltenen Informationen, Verfügbarkeit der Dienste, Verlust von auf sv-moetzingen.de abgespeicherten Daten oder Nutzbarkeit für irgendeinen bestimmten Zweck. Die Betreiber haften auch nicht für Folgeschäden, die auf einer Nutzung des Angebotes beruhen.  
+Soweit ein Haftungsausschluss nicht in Betracht kommt, haften die Betreiber lediglich für grobe Fahrlässigkeit und Vorsatz. Produkt- und Firmennamen sind Marken der jeweiligen Eigentümer und werden auf diesen Seiten ausschliesslich zu Informationszwecken eingesetzt.  
+Diese Publikation könnte technische oder andere Ungenauigkeiten enthalten oder Schreib- oder Tippfehler. Von Zeit zu Zeit werden der vorliegenden Information Änderungen hinzugefügt; diese Änderungen werden in neuen Ausgaben der Publikation eingefügt. Der Betreiber kann jederzeit Verbesserungen und/oder Veränderungen an den Angeboten vornehmen, die in dieser Publikation beschrieben werden.  
+  
+## Rechtswirksamkeit  
+  
+Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.  
+
+---
+| [Startseite](index.md) | [Impressum](impressum.md) | 
