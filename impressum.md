@@ -6,7 +6,7 @@ Dr.-Ing Maximilian Harr
 backhaus.moetzingen@web.de  
   
 Adresse:  
-Baisinger Str. 22  
+Baisinger Str. 6  
 71159 Mötzingen​  
   
 Ansprechpartner für Webseite:  
