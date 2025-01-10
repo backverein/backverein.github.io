@@ -28,4 +28,6 @@ Die Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlau
 4. Rechtswirksamkeit dieses Haftungsausschlusses  
 Sollten einzelne Regelungen oder Formulierungen dieses Haftungsausschlusses unwirksam sein oder werden, bleiben die übrigen Regelungen in ihrem Inhalt und ihrer Gültigkeit hiervon unberührt.  
 
-[Startseite](index.md)
+Quellen: Juraforum.de - Disclaimer, Gesetze, Urteile, Lexikon, Rechtsanwälte & Steuerberater; anwalt-seiten.de  
+  
+[Startseite](index.md)  
