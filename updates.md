@@ -1,5 +1,8 @@
 # Neuigkeiten
 
+## 10.04.2025 Großzügige Spende der Kulturstiftung Kreissparkasse Böblingen
+Der Backverein freut sich sehr über die großzügige Spende der [Kulturstiftung Kreissparkasse Böblingen](https://www.kskbb.de/de/home/ihre-sparkasse/stiftungen.html) in Höhe von 10'000,00 € für die Sanierung des Backhauses in Mötzingen.  
+
 ## 04.02.2025 Eintragung im Transparenzregister
 Der Backverein Mötzingen e.V. wurde im Tranzparenzregister der Bundesrepublick Deutschland eingetragen.
 
