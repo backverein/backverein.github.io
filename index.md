@@ -18,9 +18,9 @@ Du hast Lust das Backleben in Mötzingen mit uns zu gestalten, dann werde [gerne
 [Hier geht's zum Backhaus](backhaus_old.md)  
   
 ### Download  
-[Beitrittserklärung](https://github.com/backverein/backverein.github.io/blob/9ef2bd3adac596a9b2347ec61ce215e5f01c8e33/20250225_beitrittserklaerung.pdf)  
+[Beitrittserklärung](https://github.com/backverein/backverein.github.io/raw/main/20250225_beitrittserklaerung.pdf)
 
-[Aktuelle Satzung (Stand 11.11.2024)](https://github.com/backverein/backverein.github.io/blob/main/20241111_satzung_backverein_moetzingen.pdf)  
+[Aktuelle Satzung (Stand 11.11.2024)](https://github.com/backverein/backverein.github.io/raw/main/20241111_satzung_backverein_moetzingen.pdf)  
 
 ![Backhaus 2025](res/PXL_20250110_092639411.jpg)  
 
