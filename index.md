@@ -12,7 +12,7 @@ Wir sind ein gemeinnütziger Verein mit dem Zweck das Backhaus in Mötzingen zu 
 Du hast Lust das Backleben in Mötzingen mit uns zu gestalten, dann werde [gerne Mitglied](https://github.com/backverein/backverein.github.io/blob/9ef2bd3adac596a9b2347ec61ce215e5f01c8e33/20250225_beitrittserklaerung.pdf) oder schreibe uns an (backhaus.moetzingen@web.de). Wir freuen uns auf dich!  
 
 ### Neuigkeiten
-[Hier geht's zu den Neugikeiten](updates.md)  
+[Hier geht's zu den Neuigkeiten](updates.md)  
 
 ### Das Backhaus
 [Hier geht's zum Backhaus](backhaus_old.md)  
