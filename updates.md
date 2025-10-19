@@ -1,6 +1,6 @@
 # Neuigkeiten
 
-## 18.19.2025 Abschlussbacken im Backhaus
+## 18.10.2025 Abschlussbacken im Backhaus
 Zum Sanierungsauftakt des Backhauses in Mötzingen haben sich am Samstag 18.10.2025 rund 30 Mitglieder und Interessierte des Backverein Mötzingen getroffen um gemeinsam mit dem Backen und Verkosten von Zwiebelkuchen und Broten das alte Backhaus nochmal ganz nah zu erleben. In geselliger Runde konnte man sich über Rezepte austauschen und Interessantes über das Backhaus und die bevorstehende Sanierung lernen. Wir planen noch in diesem Jahr mit der Sanierung beginnen zu können und freuen uns schon auf den neuen, traditionellen Steinofen und einen modernen, großen Elektroofen. Begleitet wurde unser Abschlussbacken von der Scheckübergabe der Kulturstiftung der Kreissparkasse Böblingen in Höhe von 10'000,00 €. Für diesen wichtigen finanziellen Beitrag möchte sich die Vorstandschaft in Namen aller Mitglieder bei der Kreissparkasse Böblingen bedanken.  
 ![Backhaus 2025](res/20251018_abschlussbacken.jpg)  
 
